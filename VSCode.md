@@ -12,6 +12,7 @@
 + Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code <中文语言>
 + vscode-icon  <文件资源树格式>
 + Path Intellisense <路径补全>
++ Dracula Theme Official <好看的编辑界面样式>
 
 
 
